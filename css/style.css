@@ -103,3 +103,38 @@ div {
     color: #4c5058;
     font-weight: 500;
 }
+
+/*Header Section*/
+.photo-section {
+	background: url('http://i61.tinypic.com/29dtlwz.jpg');
+	background-repeat: no-repeat;
+	text-align: center;
+	color:#fff;
+	height:735px;
+	padding: 150px 0;
+    position:relative;
+    background-position: -9px -70px;
+    font-family: 'Roboto', sans-serif; 
+	font-weight: 300;
+}
+
+.photo-section h1 {
+	font-size: 50px;
+	margin-top: 60px;
+}
+
+.photo-section p {
+	font-size: 25px;
+	margin-top: 20px;
+}
+
+.photo-section button {
+	font-size: 18px;
+	margin-top: 25px;
+	height: 54px;
+    width: 156px;
+    background-color:#f15a29;
+    border-color:#f15a29;
+    color:#fff;
+    border-radius: 5px;
+}
