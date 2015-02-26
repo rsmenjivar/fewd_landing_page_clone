@@ -56,12 +56,13 @@ table {
 }
 
 body {
-    background-color: LightGray;
+    /*background-color: LightGray;*/
     font-family: 'Roboto', sans-serif; 
 }
-div {
+
+/*div {
     border: 1px solid Chocolate;
-}
+}*/
 
 .content {
     padding: 0px 15px;
@@ -155,7 +156,7 @@ div {
 .column {
 	width: 33.33333%;
 	display: inline-block;
-    border: 1px solid black;
+    /*border: 1px solid black;*/
     box-sizing: border-box;
     height: 220px;
 }
@@ -196,7 +197,7 @@ div {
 	display:inline-block;
 	margin-left: 10px;
 	border-radius: 20px;
-	border: 1px solid #000000;
+	border: 1px solid #545454;
 	text-align: center;
 	width:30px;
 	height:30px;
@@ -205,4 +206,16 @@ div {
 
 .footer .icons li:hover {
 	cursor:pointer;
+}
+
+.twitter {
+	color:#4099FF;
+}
+
+.facebook {
+	color:#3b5998;
+}
+
+.instagram {
+	color:#3b5998;
 }
