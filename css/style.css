@@ -178,3 +178,31 @@ div {
 	color: #000000;
 	text-align: center;
 }
+
+/*Footer Section*/
+.footer {
+	text-align: center;
+}
+
+.copyright {
+	color: #545454;
+}
+
+.footer h4 {
+	margin: 15px 0;
+}
+
+.footer .icons li {
+	display:inline-block;
+	margin-left: 10px;
+	border-radius: 20px;
+	border: 1px solid #000000;
+	text-align: center;
+	width:30px;
+	height:30px;
+	padding: 5px 0;
+}
+
+.footer .icons li:hover {
+	cursor:pointer;
+}
